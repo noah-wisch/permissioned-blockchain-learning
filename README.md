@@ -1,5 +1,10 @@
 # Permissioned Blockchain Learning
 
+![Status](https://img.shields.io/badge/status-in_progress-yellow)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Tech Stack](https://img.shields.io/badge/stack-Hyperledger%20%7C%20Corda%20%7C%20Quorum-lightgrey)
+![Last Commit](https://img.shields.io/github/last-commit/noah-wisch/permissioned-blockchain-learning)
+
 This repository tracks my journey into permissioned blockchains, including notes, experiments, and mini-projects using frameworks like Hyperledger Fabric, R3 Corda, and Quorum.
 
 ## Structure
